@@ -47,7 +47,7 @@ O sistema não apenas agrega dados, mas também os valida, limpa e oferece funci
 
 1.  **Clone o repositório e navegue até a pasta:**
     ```bash
-    git clone [https://github.com/dev-vra/consolidador_cucala.git](https://github.com/dev-vra/consolidador_cucala.git)
+    git clone https://github.com/dev-vra/consolidador_cucala.git
     cd consolidador_cucala
     ```
 2.  **Crie e ative um ambiente virtual:**
