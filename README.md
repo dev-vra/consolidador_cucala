@@ -6,10 +6,10 @@ Este é um aplicativo de desktop completo, desenvolvido em Python, para automati
 
 O sistema não apenas agrega dados, mas também os valida, limpa e oferece funcionalidades de atualização, tudo através de uma interface gráfica moderna, segura e intuitiva.
 
-![Screenshot da Aplicação](https://imgur.com/a/Vf9Rh8J)
-![Screenshot da Aplicação](https://imgur.com/a/SMr8tEU)
-![Screenshot da Aplicação](https://imgur.com/a/RO89LBe)
-![Screenshot da Aplicação](https://imgur.com/a/w8TCd3L)
+![Screenshot da Aplicação](https://i.imgur.com/JciaiVr.png)
+![Screenshot da Aplicação](https://i.imgur.com/3xPU8yQ.png)
+![Screenshot da Aplicação](https://i.imgur.com/btfTgZo.png)
+![Screenshot da Aplicação](https://i.imgur.com/kpsteN2.png)
 
 ---
 
